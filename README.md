@@ -4,10 +4,10 @@
   <p><b>Afet anında internet ve baz istasyonuna ihtiyaç duymadan hayat kurtaran iletişim ağı.</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Android" />
-    <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose" alt="Jetpack Compose" />
-    <img src="https://img.shields.io/badge/Architecture-MVVM%20%2B%20Clean-FF6F00?style=for-the-badge" alt="Architecture" />
+    <img width="1219" height="2397" alt="WhatsApp Image 2026-06-14 at 19 43 06" src="https://github.com/user-attachments/assets/509bd390-0ab1-4d7b-8f34-bc79993ad1ec" />
+    <img width="610" height="1356" alt="WhatsApp Image 2026-06-14 at 19 40 38" src="https://github.com/user-attachments/assets/e0d477b3-c3c4-48c0-a376-69814c66c1dc" />
+   <img width="1220" height="2712" alt="WhatsApp Image 2026-06-14 at 19 40 39 (1)" src="https://github.com/user-attachments/assets/fb8194af-ddaa-4f5c-9c2e-a0c083e13e96" />
+    <img width="610" height="1356" alt="WhatsApp Image 2026-06-14 at 19 40 39" src="https://github.com/user-attachments/assets/f94757d6-162f-44c2-bf05-450b111c7dea" />
   </p>
 </div>
 
