@@ -4,10 +4,10 @@
   <p><b>Afet anında internet ve baz istasyonuna ihtiyaç duymadan hayat kurtaran iletişim ağı.</b></p>
 
   <p>
-    <img width="500" height="500" alt="WhatsApp Image 2026-06-14 at 19 43 06" src="https://github.com/user-attachments/assets/509bd390-0ab1-4d7b-8f34-bc79993ad1ec" />
-    <img width="500" height="500" alt="WhatsApp Image 2026-06-14 at 19 40 38" src="https://github.com/user-attachments/assets/e0d477b3-c3c4-48c0-a376-69814c66c1dc" />
-   <img width="500" height="500" alt="WhatsApp Image 2026-06-14 at 19 40 39 (1)" src="https://github.com/user-attachments/assets/fb8194af-ddaa-4f5c-9c2e-a0c083e13e96" />
-    <img width="500" height="500" alt="WhatsApp Image 2026-06-14 at 19 40 39" src="https://github.com/user-attachments/assets/f94757d6-162f-44c2-bf05-450b111c7dea" />
+    <img width="150" height="300" alt="WhatsApp Image 2026-06-14 at 19 43 06" src="https://github.com/user-attachments/assets/509bd390-0ab1-4d7b-8f34-bc79993ad1ec" />
+    <img width="150" height="300" alt="WhatsApp Image 2026-06-14 at 19 40 38" src="https://github.com/user-attachments/assets/e0d477b3-c3c4-48c0-a376-69814c66c1dc" />
+   <img width="150" height="300" alt="WhatsApp Image 2026-06-14 at 19 40 39 (1)" src="https://github.com/user-attachments/assets/fb8194af-ddaa-4f5c-9c2e-a0c083e13e96" />
+    <img width="150" height="300" alt="WhatsApp Image 2026-06-14 at 19 40 39" src="https://github.com/user-attachments/assets/f94757d6-162f-44c2-bf05-450b111c7dea" />
   </p>
 </div>
 
