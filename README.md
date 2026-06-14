@@ -37,9 +37,9 @@ Bu sistemde her telefon hem alıcı hem de verici görevi görür. Hayati durum 
       <td align="center"><b>Mesh Ağı Tarama</b></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Ana+Ekran" alt="Ana Ekran" width="250"/></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Durum+Bildir" alt="Durum Bildir" width="250"/></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Mesh+Ag+Tarama" alt="Mesh Ağı Tarama" width="250"/></td>
+      <td><img src="screenshots/ana_ekran.png" alt="Ana Ekran" width="250"/></td>
+      <td><img src="screenshots/durum_bildir.png" alt="Durum Bildir" width="250"/></td>
+      <td><img src="screenshots/mesh_agi_tarama.png" alt="Mesh Ağı Tarama" width="250"/></td>
     </tr>
     <tr>
       <td align="center"><b>Çevrimdışı Harita</b></td>
@@ -47,8 +47,8 @@ Bu sistemde her telefon hem alıcı hem de verici görevi görür. Hayati durum 
       <td align="center"></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Cevrimdisi+Harita" alt="Çevrimdışı Harita" width="250"/></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=SOS+Flas" alt="SOS Flaş Sinyali" width="250"/></td>
+      <td><img src="screenshots/cevrimdisi_harita.png" alt="Çevrimdışı Harita" width="250"/></td>
+      <td><img src="screenshots/sos_flas_sinyali.png" alt="SOS Flaş Sinyali" width="250"/></td>
       <td></td>
     </tr>
   </table>
@@ -113,3 +113,4 @@ Uygulamanın tam kapasiteyle çalışabilmesi için aşağıdaki izinlere ihtiya
 ## 👨‍💻 Geliştirici
 
 Bu proje geliştirme ve test amacıyla hazırlanmış olup, modern Android geliştirme süreçleri referans alınarak oluşturulmuştur.
+
