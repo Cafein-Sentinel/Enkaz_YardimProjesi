@@ -208,7 +208,7 @@ adb install -r "app/app/build/outputs/apk/debug/app-debug.apk"
 
 ## 👨‍💻 Geliştirici
 
-**Proje Sahibi:** Cafein-Sentinel
+**Proje Sahibi:** Mustafa Arda Özcan 202442501065
 
 **Eğitim Bağlamı:** 
 - Nesne Yönelimli Programlama (OOP) Dersi Final Projesi
