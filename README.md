@@ -13,6 +13,18 @@
 
 ---
 
+## 📥 Hızlı İndirme
+
+### 🚀 Son Sürüm: v2.0
+[**APK İndir (v2.0)**](https://github.com/Cafein-Sentinel/Enkaz_YardimProjesi/releases/download/v2.0/Enkaz_YardimProjesi-v2.0.apk)
+
+> **Kurulum Talimatı:**
+> 1. Yukarıdaki linke tıklayarak APK dosyasını indirin
+> 2. Telefonunuzda: `Ayarlar` → `Güvenlik` → `Bilinmeyen Kaynaklar` ✓ etkinleştirin
+> 3. İndirilen APK dosyasını açın ve kurulumu tamamlayın
+
+---
+
 ## 🎯 Problem ve Çözüm
 
 ### 📌 Problem Nedir?
